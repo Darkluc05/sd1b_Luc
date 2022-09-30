@@ -1,4 +1,23 @@
 # sd1b_Luc
-hello
-this is jsut a test
-Darkluc zit hier
+History
+
+Gwyn fighting the Dragons.
+
+After the advent of fire, Gwyn discovered a Lord Soul along with the Furtive Pygmy, Gravelord Nito, and the Witch of Izalith; he was surrounded by knights when he found the Lord Soul and was dressed in regalia, so it is possible that he may have been a king before obtaining it. His soul allowed him to manipulate light, and generate a substance called lightning. The Lords allied with Seath the Scaleless and amassed an army, and with their power granted by their souls, challenged the Everlasting Dragons for dominion of the World. His mighty bolts peeled apart their ancient scales, allowing them to be killed by other means of attack, and they were ultimately defeated, but importantly not eliminated.[2]
+
+And thus the Age of Fire began, with Gwyn as the king of Lordran. He lived with his clan who became a new and varied race known as Gods, in their city of Anor Londo. They often hunted the descendants of the dragons for sport, for which many of their powers were developed. This did not include Seath, for he received recognition for his deeds, and was made a part of the nobility - specifically by being deemed a Duke and given control over the Archives.
+
+Meanwhile, Gwyn formed his Four Knights: Dragonslayer Ornstein, the captain of the guard[3]; Hawkeye Gough, commander of the Dragonslayers;[4] Lord's Blade Ciaran, the royal assassin;[5] and the legendary Knight, Artorias the Abysswalker.[6]
+
+Gwyn's friend, Havel the Rock, was a general over his own warriors, which were also part of Gwyn's army.[7] Friend-wise, Kaathe states that Frampt "lost his sense" and befriended Gwyn.[8]
+
+When the flame began to fade, Gwyn and the other Lords did all they could to find a solution. The Witch of Izalith attempted to recreate the First Flame from her own Lord Soul, but the attempt went horribly awry, mutating the Witch into the terrible Bed of Chaos, which spewed forth malformed chaos demons whom Gwyn's faithful Silver Knights fought; the Demon's flames turned their armor black. Seeing no other choice, Gwyn left Anor Londo and traveled to the Kiln of the First Flame to link it, thus prolonging the Age of Fire.[9][10] [11] A great many of his Black Knights followed him into the Kiln and were reduced to ash when he linked the fire, wandering Lordran as disembodied spirits for eternity; the remaining Silver Knights guard Anor Londo.[12][9] However before he left, Gwyn divided his own soul among his clan and children,[13] and granted parts to both the Four Kings and Seath along with other beings. [11]
+
+It is implied that at least one thousand years have passed from this point, to when the events of Dark Souls begin.[14] Gwynevere, Princess of Sunlight, Kingseeker Frampt and Darkstalker Kaathe give the Chosen Undead alternating viewpoints of Gwyn. Gwynevere claims that it is the Chosen Undead's duty to succeed Gwyn, stating that their success would "avert further Undead sacrifices"[15] and that without Fire, "all shall be a frigid and frightful Dark"[16] – a perspective that Frampt shares.[17] As this Gwynevere is actually an illusion made by her brother Gwyndolin,[18] whether or not they are being entirely truthful is left unresolved.
+
+On the other hand, Kaathe asserts that the Age of Dark – the apparent "age of men" – would naturally follow the Age of Fire, but Gwyn, in dire fear of both the Dark and humanity, resisted the course of nature by sacrificing himself to link the Fire. Unlike Frampt, Kaathe believes it is the Chosen Undead's fate to "destroy the fading Lord Gwyn, [...] become the Fourth Lord, [and] usher in an Age of Dark".[8]
+
+Family
+Gwyn is the nephew of Allfather Lloyd[19] and father of Dark Sun Gwyndolin, a son whom he raised as a daughter,[20] and two actual daughters Gwynevere, Princess of Sunlight and Filianore.[21][22] His other son was a god of war, who inherited the sunlight through his status as firstborn. However, he sided with the Ancient Dragons, for which he was promptly stripped of his deific status and all references to him, including his very name, were erased from Lordran and the Annals of History.[1][23][24]
+
+Company Captain Yorshka is a possible daughter of Gwyn, although considering the facts that Gwyndolin gave her a name[25] and that she doesn't know much about the world, this may not be true - rather, she could be an adoptive daughter. However, cut content provided some information about her, supporting that Gwyndolin is her brother and she was imprisoned for years (what can explain her little knowledge about the world). What was not put into the game is that she is crossbreed.
